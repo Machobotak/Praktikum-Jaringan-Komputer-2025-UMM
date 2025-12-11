@@ -8,12 +8,12 @@ Repositori ini berisi kumpulan **modul praktikum** dan **file simulasi (.pka)** 
 
 | Folder | Deskripsi |
 |---------|------------|
-| `Modul 1` | Pengenalan dasar jaringan komputer dan pengenalan Cisco Packet Tracer |
-| `Modul 2` | IP Addressing, subnetting, dan konfigurasi dasar perangkat jaringan |
-| `Modul 3` | Routing (Static Routing dan Dynamic Routing) |
-| `Modul 4` | VLAN dan konfigurasi antar VLAN |
-| `Modul 5` | DHCP, DNS, serta layanan jaringan lainnya |
-| `Modul 6` | Troubleshooting dan analisis jaringan |
+| `Modul 1` | IP Addressing & Subnetting |
+| `Modul 2` | Konsep Switch, VLANs, dan Inter-VLAN Routing |
+| `Modul 3` | Konsep EtherChannel Operation |
+| `Modul 4` | Available and Reliable Networks |
+| `Modul 5` | Implementasi Port Security dan Konfigurasi Switch Security |
+| `Modul 6` | Configure a Wireless Network |
 
 Setiap folder modul berisi:
 - **File PDF:** Panduan praktikum.  
